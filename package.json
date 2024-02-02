@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-process",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -13,5 +13,8 @@
     "@semantic-release/git": "^10.0.1",
     "mocha": "^10.2.0",
     "semantic-release": "^22.0.12"
+  },
+  "dependencies": {
+    "@semantic-release/exec": "^6.0.3"
   }
 }
